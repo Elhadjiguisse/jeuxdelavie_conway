@@ -28,6 +28,7 @@ mais qui peuvent générer des motifs complexes et intéressants.
 ## Comment exécuter le programme
 
 1 - Dans votre terminal taper la commande suivante :
+
   ```ruby jdlv.rb```
 
 ## Instructions du jeu
