@@ -4,6 +4,7 @@ Ce programme Ruby utilise la gemme Gosu pour implémenter le célèbre "Jeu de l
 https://twitter.com/eliaswalyba/status/1724460346155340047
 
 Ce concour m'a permis de découvrir la Gemme Gosu que je ne connaissais pas et aussi progresser en Ruby.
+Cependant à certains moment j'ai eu recours à ChatGPT pour la Gemme Gosu.
 
 Le Jeu de la Vie est un automate cellulaire bidimensionnel avec des règles simples,
 mais qui peuvent générer des motifs complexes et intéressants.
