@@ -1,6 +1,6 @@
 require 'gosu'
 
-class jeudelavie < Gosu::Window
+class Jeudelavie < Gosu::Window
   def initialize(width, height)
     super(width, height, false)
     self.caption = 'Jeu de la Vie de Conway'
@@ -82,5 +82,5 @@ end
 
 width = 800
 height = 600
-game = jeudelavie.new(width, height)
+game = Jeudelavie.new(width, height)
 game.show
