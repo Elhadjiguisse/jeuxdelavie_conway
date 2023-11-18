@@ -37,14 +37,13 @@ Les cellules sont représentées par des carrés blancs (vivantes) ou noirs (mor
 La génération est mise à jour automatiquement à intervalles réguliers.
 Vous pouvez personnaliser la taille de la fenêtre, la vitesse de génération et d'autres paramètres dans le code.
 
-## Commandes du jeu
-Aucune commande utilisateur n'est actuellement implémentée, mais vous pouvez étendre le programme pour permettre à l'utilisateur d'interagir avec la grille.
+## Fonctionnalités à ajouter
+- Pouvoir dessiner ou modifier l'état des cellules
+  
+- Vitesse de génération réglabe
 
-## Fonctionnalités suggérées à ajouter
-Contrôles utilisateur pour dessiner ou modifier l'état des cellules.
-Paramètres réglables comme la taille des cellules, la vitesse de génération, etc.
-Boutons de contrôle pour démarrer, mettre en pause, réinitialiser le jeu.
-Modèles de formes préconçus, sauvegarde/chargement de configurations, etc.
+- Des boutons pour démarrer, mettre en pause ou réinitialiser le jeu.
+
 
 ## Contribution
-Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration ou si vous trouvez des bogues, n'hésitez pas !
+Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration n'hésitez pas !
