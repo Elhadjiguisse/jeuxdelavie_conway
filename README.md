@@ -3,22 +3,46 @@
 Ce programme Ruby utilise la gemme Gosu pour implémenter le célèbre "Jeu de la Vie" de Conway que j'ai découvert sur X (ex Twitter) grâce à ce concour
 https://twitter.com/eliaswalyba/status/1724460346155340047
 
+Ce concour m'a permis de découvrir la Gemme Gosu que je ne connaissais pas et aussi progresser en Ruby.
+
 Le Jeu de la Vie est un automate cellulaire bidimensionnel avec des règles simples,
 mais qui peuvent générer des motifs complexes et intéressants.
 
-# Prérequis
+## Prérequis
 1 - Installer Ruby sur votre système.
 
-2 - Installer la Gemme Gosu.
+2 - Ouvrir votre terminal et installer la Gemme Gosu.
 
   ```gem install gosu```
 
   
 3 - Faire un clone du repo Github.
 
-  ```git clone https://github.com/votre-utilisateur/jeu-de-la-vie-gosu.git```
+  ```git clone https://github.com/Elhadjiguisse/jeuxdelavie_conway.git```
 
 4 - Accéder dans le dossier
-```cd  ```
 
-Comment exécuter le programme
+```cd jeuxdelavie_conway```
+
+## Comment exécuter le programme
+
+1 - Dans votre terminal taper la commande suivante :
+  ```ruby jdlv.rb```
+
+## Instructions du jeu
+La fenêtre du jeu affiche une grille de cellules qui évoluent en fonction des règles du Jeu de la Vie de Conway.
+Les cellules sont représentées par des carrés blancs (vivantes) ou noirs (mortes).
+La génération est mise à jour automatiquement à intervalles réguliers.
+Vous pouvez personnaliser la taille de la fenêtre, la vitesse de génération et d'autres paramètres dans le code.
+
+## Commandes du jeu
+Aucune commande utilisateur n'est actuellement implémentée, mais vous pouvez étendre le programme pour permettre à l'utilisateur d'interagir avec la grille.
+
+## Fonctionnalités suggérées à ajouter
+Contrôles utilisateur pour dessiner ou modifier l'état des cellules.
+Paramètres réglables comme la taille des cellules, la vitesse de génération, etc.
+Boutons de contrôle pour démarrer, mettre en pause, réinitialiser le jeu.
+Modèles de formes préconçus, sauvegarde/chargement de configurations, etc.
+
+## Contribution
+Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration ou si vous trouvez des bogues, n'hésitez pas !
